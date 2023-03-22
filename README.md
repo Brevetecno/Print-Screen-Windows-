@@ -5,12 +5,12 @@ O Script usa a biblioteca PyAutoGUI para executar os comandos de tirar print, pr
 
 REQUISITOS:
 
-  Sistema Operacional Windows 7 ou superior.
-  
-    Python 2 ou 3 instalado e adicionado ao PATH de suas variaveis no Windows e a
-    
-      Biblioteca PyAutoGUI
-      
-Instalar Python: https://www.python.org/downloads/
+Sistema Operacional Windows 7 ou superior.
 
-Instalar biblioteca PyAutoGUI: abrar como administrador seu  CMD.EXE e digite 'pip Install PyAutoGUI'
+Python 2 ou 3 instalado e adicionado ao PATH de suas variaveis no Windows e a
+ 
+Biblioteca PyAutoGUI
+
+
+Instalar Python: https://www.python.org/downloads/
+Instalar biblioteca PyAutoGUI: Abrar como administrador seu  CMD.EXE e digite 'pip Install PyAutoGUI'
