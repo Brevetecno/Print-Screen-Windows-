@@ -18,4 +18,4 @@ Instalar biblioteca PyAutoGUI:
 
   Abrar como administrador seu  CMD.EXE e digite 
   
-    'pip Install PyAutoGUI'
+    pip Install PyAutoGUI
